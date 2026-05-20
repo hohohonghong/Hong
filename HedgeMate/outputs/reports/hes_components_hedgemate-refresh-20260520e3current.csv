@@ -1,0 +1,11 @@
+ticker,asset_class,hedge_bucket,candidate_role,candidate_role_reason_ko,risk_bucket_match,hes_score,component_corr_improve,component_cvar_improve,component_stress_defense,component_sharpe_quality,component_liquidity_penalty,corr_sp500_60d_krw,cvar_95_1y_krw,avg_stress_ret_krw,sharpe_1y_krw_proxy,adv_60
+XLE,etf,commodity_energy,hedge_candidate,기본 포트폴리오 개선 후보,stagflation_reinflation_energy_shock,0.417535,0.605984,0.570046,0.325666,0.736825,0.347533,0.132459,-0.033819,-0.002884,2.305183,4514352933179.832
+LQD,bond_etf,bond,hedge_candidate,기본 포트폴리오 개선 후보,higher_for_longer_long_rate_shock,0.403876,0.0,0.965012,0.717728,0.203199,0.076016,0.783587,-0.015526,-0.000832,0.946819,6362320513297.072
+GLD,gold_etf,gold,hedge_candidate,기본 포트폴리오 개선 후보,stagflation_reinflation_energy_shock,0.394769,0.239837,0.411945,0.756803,0.536419,0.0,0.525882,-0.041141,-0.000627,1.795043,6879693699387.566
+USO,commodity_etf,commodity_energy,hedge_candidate,기본 포트폴리오 개선 후보,stagflation_reinflation_energy_shock,0.384247,1.0,0.0,0.0,1.0,0.10502,-0.29091,-0.06022,-0.004588,2.975106,6164918368774.204
+TLT,bond_etf,bond,hedge_candidate,기본 포트폴리오 개선 후보,higher_for_longer_long_rate_shock,0.382629,0.059512,0.909383,1.0,0.0,0.397301,0.719641,-0.018103,0.000645,0.429567,4175625624321.1646
+DBC,commodity_etf,commodity_energy,hedge_candidate,기본 포트폴리오 개선 후보,stagflation_reinflation_energy_shock,0.380792,0.751665,0.648266,0.176516,0.970038,1.0,-0.024075,-0.030196,-0.003664,2.898836,73595336412.57709
+SHY,bond_etf,bond,hedge_candidate,기본 포트폴리오 개선 후보,higher_for_longer_long_rate_shock,0.348564,0.135353,1.0,0.874506,0.188375,0.922876,0.63815,-0.013906,-1.1e-05,0.909082,598507121135.5558
+IEF,bond_etf,bond,hedge_candidate,기본 포트폴리오 개선 후보,higher_for_longer_long_rate_shock,0.346752,0.056214,0.982367,0.931855,0.146459,0.808224,0.723184,-0.014722,0.000289,0.802384,1378840058167.9148
+TIP,bond_etf,bond,hedge_candidate,기본 포트폴리오 개선 후보,higher_for_longer_long_rate_shock|stagflation_reinflation_energy_shock,0.312131,0.11479,0.978012,0.761116,0.197571,0.952857,0.660245,-0.014924,-0.000605,0.932491,394454122760.1819
+XLP,etf,defensive,hedge_candidate,기본 포트폴리오 개선 후보,core_hedge,0.296121,0.205793,0.818764,0.62057,0.167957,0.728839,0.562463,-0.0223,-0.00134,0.857109,1919142658012.324

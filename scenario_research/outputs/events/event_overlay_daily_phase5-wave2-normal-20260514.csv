@@ -1,0 +1,3 @@
+date,scenario_code,event_overlay_score,event_count,needs_review_count,avg_severity,avg_novelty,overlay_confidence,event_types,regions,direction_summary,top_event_titles,evidence_summary,source_count,engine_version
+2026-05-11,slowdown_recession_deflation_risk,46.772589,1,0,44.0,40.0,74.0,growth,global,growth_down:1,Services demand is slower but not recessionary,Reviewed fixture: softer demand is present but below standalone recession stress,1,phase5_event_overlay_v1
+2026-05-11,soft_landing_goldilocks,60.772589,1,0,58.0,46.0,82.0,risk_sentiment,global,risk_on:1,Disinflation and steady growth support risk appetite,Reviewed fixture: risk appetite and stable growth support a favorable soft-landing diagnosis,1,phase5_event_overlay_v1

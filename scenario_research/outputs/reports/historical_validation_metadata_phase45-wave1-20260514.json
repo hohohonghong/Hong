@@ -1,0 +1,9 @@
+{
+  "run_id": "phase45-wave1-20260514",
+  "scenario_state_path": "C:\\Users\\석민\\Documents\\cau_2026_ss\\금융인공지능실습1\\scenario_research\\outputs\\processed\\scenario_state_daily_phase45-wave1-20260514.csv",
+  "validation_csv": "C:\\Users\\석민\\Documents\\cau_2026_ss\\금융인공지능실습1\\scenario_research\\outputs\\validation\\historical_validation_cases_phase45-wave1-20260514.csv",
+  "validation_review": "C:\\Users\\석민\\Documents\\cau_2026_ss\\금융인공지능실습1\\scenario_research\\outputs\\reports\\historical_validation_review_phase45-wave1-20260514.md",
+  "case_count": 9,
+  "ok_case_count": 7,
+  "insufficient_history_case_count": 2
+}

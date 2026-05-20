@@ -1,0 +1,9 @@
+{
+  "run_id": "latest-20260512",
+  "scenario_state_path": "/mnt/c/Users/석민/Documents/cau_2026_ss/금융인공지능실습1/scenario_research/outputs/processed/scenario_state_daily_latest-20260507.csv",
+  "validation_csv": "/mnt/c/Users/석민/Documents/cau_2026_ss/금융인공지능실습1/scenario_research/outputs/validation/historical_validation_cases_latest-20260512.csv",
+  "validation_review": "/mnt/c/Users/석민/Documents/cau_2026_ss/금융인공지능실습1/scenario_research/outputs/reports/historical_validation_review_latest-20260512.md",
+  "case_count": 5,
+  "ok_case_count": 3,
+  "insufficient_history_case_count": 2
+}

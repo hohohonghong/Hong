@@ -1,0 +1,37 @@
+{
+  "generated_at_utc": "2026-05-20T08:40:10Z",
+  "hedgemate_run_id": "hedgemate-refresh-20260520e3current",
+  "backtest_run_id": "backtest-refresh-20260520e3current",
+  "backtest_csv": "C:\\Users\\석민\\Documents\\cau_2026_ss\\금융인공지능실습1\\HedgeMate\\outputs\\validation\\walk_forward_backtest_backtest-refresh-20260520e3current.csv",
+  "portfolio_1to1_gated_csv": "C:\\Users\\석민\\Documents\\cau_2026_ss\\금융인공지능실습1\\HedgeMate\\outputs\\reports\\portfolio_1to1_hedge_hedgemate-refresh-20260520e3current_backtest_gated.csv",
+  "portfolio_multi_gated_csv": "C:\\Users\\석민\\Documents\\cau_2026_ss\\금융인공지능실습1\\HedgeMate\\outputs\\reports\\portfolio_multi_hedge_hedgemate-refresh-20260520e3current_backtest_gated.csv",
+  "summary_md": "C:\\Users\\석민\\Documents\\cau_2026_ss\\금융인공지능실습1\\HedgeMate\\outputs\\reports\\backtest_gate_summary_hedgemate-refresh-20260520e3current_backtest_gated.md",
+  "post_backtest_qa_md": "C:\\Users\\석민\\Documents\\cau_2026_ss\\금융인공지능실습1\\HedgeMate\\outputs\\reports\\recommendation_status_qa_post_backtest_hedgemate-refresh-20260520e3current_backtest_gated.md",
+  "backtest_attribution_csv": "C:\\Users\\석민\\Documents\\cau_2026_ss\\금융인공지능실습1\\HedgeMate\\outputs\\reports\\backtest_attribution_backtest-refresh-20260520e3current.csv",
+  "backtest_attribution_md": "C:\\Users\\석민\\Documents\\cau_2026_ss\\금융인공지능실습1\\HedgeMate\\outputs\\reports\\backtest_attribution_backtest-refresh-20260520e3current.md",
+  "formal_gate_audit_csv": "C:\\Users\\석민\\Documents\\cau_2026_ss\\금융인공지능실습1\\HedgeMate\\outputs\\reports\\formal_gate_audit_hedgemate-refresh-20260520e3current_backtest_gated.csv",
+  "formal_gate_audit_md": "C:\\Users\\석민\\Documents\\cau_2026_ss\\금융인공지능실습1\\HedgeMate\\outputs\\reports\\formal_gate_audit_hedgemate-refresh-20260520e3current_backtest_gated.md",
+  "one_to_one_rows": 33,
+  "multi_rows": 33,
+  "one_to_one_status_counts": {
+    "FAIL_GATE": 24,
+    "REFERENCE_ONLY": 9
+  },
+  "multi_status_counts": {
+    "FAIL_GATE": 14,
+    "REFERENCE_ONLY": 19
+  },
+  "backtest_candidate_count": 66,
+  "backtest_attribution_count": 154,
+  "formal_gate_blocker_counts": {
+    "bootstrap_not_robust": 57,
+    "cash_baseline_lag": 56,
+    "fail_gate": 38,
+    "return_drag_reference": 34,
+    "validation_thin": 30,
+    "liquidity_below_formal": 28,
+    "reference_only": 28,
+    "validation_insufficient": 9,
+    "target_worsened": 1
+  }
+}

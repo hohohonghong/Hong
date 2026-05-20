@@ -1,0 +1,9 @@
+date,scenario_code,event_overlay_score,event_count,needs_review_count,avg_severity,avg_novelty,overlay_confidence,event_types,regions,direction_summary,top_event_titles,evidence_summary,source_count,engine_version
+2026-02-02,geopolitical_escalation_supply_shock,5,0,0,0,0,70,geopolitical,global,baseline:0,Baseline geopolitical monitor,No material escalation signal,1,phase5_event_overlay_v1
+2026-02-16,geopolitical_escalation_supply_shock,5,0,0,0,0,70,geopolitical,global,baseline:0,Baseline geopolitical monitor,No material escalation signal,1,phase5_event_overlay_v1
+2026-03-02,geopolitical_escalation_supply_shock,8,0,0,0,0,70,geopolitical,global,baseline:0,Baseline geopolitical monitor,No material escalation signal,1,phase5_event_overlay_v1
+2026-03-16,geopolitical_escalation_supply_shock,10,0,0,0,0,70,geopolitical,global,baseline:0,Baseline geopolitical monitor,No material escalation signal,1,phase5_event_overlay_v1
+2026-03-30,geopolitical_escalation_supply_shock,12,0,0,0,0,70,geopolitical,global,baseline:0,Baseline geopolitical monitor,No material escalation signal,1,phase5_event_overlay_v1
+2026-04-13,geopolitical_escalation_supply_shock,15,0,0,0,0,70,geopolitical,global,baseline:0,Baseline geopolitical monitor,No material escalation signal,1,phase5_event_overlay_v1
+2026-04-27,geopolitical_escalation_supply_shock,18,0,0,0,0,70,geopolitical,global,watch:1,Baseline geopolitical monitor,Moderate watch signal only,1,phase5_event_overlay_v1
+2026-05-11,geopolitical_escalation_supply_shock,75,2,0,70,65,80,geopolitical,middle_east|asia,escalation:2,Oil and shipping risk rise,Geopolitical escalation supports supply shock scenario,2,phase5_event_overlay_v1

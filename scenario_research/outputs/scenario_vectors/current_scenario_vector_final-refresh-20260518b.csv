@@ -1,0 +1,11 @@
+as_of_date,date,scenario_code,scenario_name,scenario_name_ko,lens,related_lenses,source_quality,event_or_seed_dependent,score,raw_state,display_state,confidence,coverage,top_positive_drivers,top_negative_drivers,market_interpretation_ko,engine_version
+2026-05-15,2026-05-15,higher_for_longer_long_rate_shock,Higher-for-Longer / Long-Rate Shock,장기금리 부담장,us_global,korea_semiconductor|fx_krw,,,77.142012,STRESS,STRESS,75.548823,0.88,,,,phase6_final_market_state_v1
+2026-05-15,2026-05-15,stagflation_reinflation_energy_shock,Stagflation / Reinflation / Energy Shock,물가·에너지 재상승장,us_global,fx_krw,,,72.756862,ACTIVE,ACTIVE,78.772892,1.0,,,,phase6_final_market_state_v1
+2026-05-15,2026-05-15,usd_strength_krw_weakness,USD Strength / KRW Weakness,달러강세/원화약세장,fx_krw,korea_market,,,60.402968,ACTIVE,PROVISIONAL,52.849552,0.73913,,,,phase6_final_market_state_v1
+2026-05-15,2026-05-15,acute_global_stress_liquidity_crunch,Acute Global Stress / Liquidity Crunch,급성 리스크오프/유동성 경색장,us_global,korea_market|fx_krw,,,59.067638,WATCH,WATCH,54.57023,0.75,,,,phase6_final_market_state_v1
+2026-05-15,2026-05-15,geopolitical_escalation_supply_shock,Geopolitical Escalation / Supply Shock,지정학 확전·공급충격장,geopolitical,us_global|korea_market|fx_krw|inflation,,,53.165632,WATCH,WATCH,66.765786,0.85,,,,phase6_final_market_state_v1
+2026-05-15,2026-05-15,soft_landing_goldilocks,Soft Landing / Goldilocks,우호적 위험선호장,us_global,korea_market,,,50.681941,ACTIVE,ACTIVE,58.091775,0.869565,,,,phase6_final_market_state_v1
+2026-05-15,2026-05-15,china_trade_fragmentation_shock,China / Trade Fragmentation Shock,중국·무역분절 충격장,china_asia,korea_market|korea_semiconductor|fx_krw,,,41.841065,OFF,OFF,26.768376,0.416667,,,,phase6_final_market_state_v1
+2026-05-15,2026-05-15,korea_domestic_financial_stress,Korea Domestic Financial Stress,한국 내수 금융스트레스장,korea_market,fx_krw|credit|real_estate,,,30.641734,OFF,OFF,63.106143,0.85,,,,phase6_final_market_state_v1
+2026-05-15,2026-05-15,semiconductor_ai_cycle_shock,Semiconductor / AI Cycle Shock,AI·반도체 사이클 충격장,korea_semiconductor,us_global|korea_market|fx_krw,,,24.900363,OFF,OFF,39.87401,0.5,,,,phase6_final_market_state_v1
+2026-05-15,2026-05-15,slowdown_recession_deflation_risk,Slowdown / Recession / Deflation Risk,경기둔화/침체 우려장,us_global,korea_market,,,22.615331,OFF,OFF,82.020919,1.0,,,,phase6_final_market_state_v1

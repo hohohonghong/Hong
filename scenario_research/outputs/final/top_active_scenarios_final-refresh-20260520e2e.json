@@ -1,0 +1,33 @@
+{
+  "date": "2026-05-19",
+  "merge_engine_version": "phase6_final_market_state_v1",
+  "top_active_scenarios": [
+    {
+      "scenario_code": "higher_for_longer_long_rate_shock",
+      "scenario_name": "Higher-for-Longer / Long-Rate Shock",
+      "scenario_name_ko": "장기금리 부담장",
+      "final_score": 78.904175,
+      "final_confidence": 84.863516,
+      "final_display_state": "STRESS",
+      "lens": "us_global"
+    },
+    {
+      "scenario_code": "usd_strength_krw_weakness",
+      "scenario_name": "USD Strength / KRW Weakness",
+      "scenario_name_ko": "달러강세/원화약세장",
+      "final_score": 73.898136,
+      "final_confidence": 64.519321,
+      "final_display_state": "ACTIVE",
+      "lens": "fx_krw"
+    },
+    {
+      "scenario_code": "stagflation_reinflation_energy_shock",
+      "scenario_name": "Stagflation / Reinflation / Energy Shock",
+      "scenario_name_ko": "물가·에너지 재상승장",
+      "final_score": 64.455959,
+      "final_confidence": 72.569019,
+      "final_display_state": "ACTIVE",
+      "lens": "us_global"
+    }
+  ]
+}

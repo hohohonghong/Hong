@@ -1,0 +1,11 @@
+as_of_date,date,scenario_code,scenario_name,scenario_name_ko,lens,related_lenses,source_quality,event_or_seed_dependent,score,raw_state,display_state,confidence,coverage,top_positive_drivers,top_negative_drivers,market_interpretation_ko,engine_version
+2026-05-11,2026-05-11,soft_landing_goldilocks,Soft Landing / Goldilocks,우호적 위험선호장,us_global,korea_market,,,72.622232,STRESS,STRONG,71.702624,1.0,,,,phase6_final_market_state_v1
+2026-05-11,2026-05-11,stagflation_reinflation_energy_shock,Stagflation / Reinflation / Energy Shock,물가·에너지 재상승장,us_global,fx_krw,,,51.480108,WATCH,WATCH,57.309753,1.0,,,,phase6_final_market_state_v1
+2026-05-11,2026-05-11,higher_for_longer_long_rate_shock,Higher-for-Longer / Long-Rate Shock,장기금리 부담장,us_global,korea_semiconductor|fx_krw,,,47.529609,WATCH,WATCH,63.635958,1.0,,,,phase6_final_market_state_v1
+2026-05-11,2026-05-11,geopolitical_escalation_supply_shock,Geopolitical Escalation / Supply Shock,지정학 확전·공급충격장,geopolitical,us_global|korea_market|fx_krw|inflation,,,43.90395275,OFF,OFF,73.72021444999999,1.0,,,,phase6_final_market_state_v1
+2026-05-11,2026-05-11,acute_global_stress_liquidity_crunch,Acute Global Stress / Liquidity Crunch,급성 리스크오프/유동성 경색장,us_global,korea_market|fx_krw,,,39.121182,OFF,OFF,61.985289,1.0,,,,phase6_final_market_state_v1
+2026-05-11,2026-05-11,usd_strength_krw_weakness,USD Strength / KRW Weakness,달러강세/원화약세장,fx_krw,korea_market,,,36.706108,OFF,OFF,67.055345,1.0,,,,phase6_final_market_state_v1
+2026-05-11,2026-05-11,slowdown_recession_deflation_risk,Slowdown / Recession / Deflation Risk,경기둔화/침체 우려장,us_global,korea_market,,,30.84288,OFF,OFF,66.857616,1.0,,,,phase6_final_market_state_v1
+2026-05-11,2026-05-11,china_trade_fragmentation_shock,China / Trade Fragmentation Shock,중국·무역분절 충격장,china_asia,korea_market|korea_semiconductor|fx_krw,,,26.974434,OFF,OFF,73.861973,1.0,,,,phase6_final_market_state_v1
+2026-05-11,2026-05-11,korea_domestic_financial_stress,Korea Domestic Financial Stress,한국 내수 금융스트레스장,korea_market,fx_krw|credit|real_estate,,,22.471612,OFF,OFF,75.733705,1.0,,,,phase6_final_market_state_v1
+2026-05-11,2026-05-11,semiconductor_ai_cycle_shock,Semiconductor / AI Cycle Shock,AI·반도체 사이클 충격장,korea_semiconductor,us_global|korea_market|fx_krw,,,5.657465,OFF,OFF,93.317763,1.0,,,,phase6_final_market_state_v1
